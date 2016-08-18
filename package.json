@@ -1,0 +1,9 @@
+{
+	"name": "ant",
+	"version": "1.9.7",
+	"main": "",
+	"description": "Apache Ant all bundled up for npm.",
+	"homepage": "https://github.com/danielheth/ant",
+	"devDependencies": {},
+	"dependencies": {}
+}
